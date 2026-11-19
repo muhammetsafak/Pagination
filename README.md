@@ -174,4 +174,4 @@ $pagination = new \MuhammetSafak\Pagination\Pagination(1, 100, 10, 'https://www.
 
 ## Lisans
 
-Bu kütüphane [Muhammet ŞAFAK](https://www.muhammetsafak.com.tr) tarafından geliştirilip [MIT Lisansı](./LICENSE) ile birlikte dağıtılmaktadır.
+Bu kütüphane [Muhammet ŞAFAK](https://muhammetsafak.com) tarafından geliştirilip [MIT Lisansı](./LICENSE) ile birlikte dağıtılmaktadır.
