@@ -4,11 +4,11 @@
  *
  * This file is part of PHPPagination.
  *
- * @author     Muhammet ŞAFAK <info@muhammetsafak.com.tr>
+ * @author     Muhammet ŞAFAK <info@muhammetsafak.com>
  * @copyright  Copyright © 2022 PHPPagination
  * @license    https://github.com/muhammetsafak/PHPPagination/blob/main/LICENSE  MIT
  * @version    0.1
- * @link       https://www.muhammetsafak.com.tr
+ * @link       https://muhammetsafak.com
  */
 
 declare(strict_types=1);
